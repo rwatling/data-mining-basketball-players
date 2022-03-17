@@ -1,0 +1,8 @@
+name: data-mining-basketball-players
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - scikit-learn
+  - pandas
