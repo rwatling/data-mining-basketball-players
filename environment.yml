@@ -6,3 +6,8 @@ dependencies:
   - matplotlib
   - scikit-learn
   - pandas
+  - notebook
+  - lxml
+  - seaborn
+  - scikit-learn-extra
+prefix: /home/rwatling/anaconda3/envs/data-mining-basketball-players
