@@ -10,4 +10,5 @@ dependencies:
   - lxml
   - seaborn
   - scikit-learn-extra
+  - kneed
 prefix: /home/rwatling/anaconda3/envs/data-mining-basketball-players
